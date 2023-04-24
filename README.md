@@ -24,14 +24,4 @@ Ao longo do desafio, utilizaremos bibliotecas como **Pandas, Numpy, Searborn, Ma
 
 Dia 1 - Coleta de dados e Análise Exploratória
 
-Dia 2 -
 
-Dia 3 - 
-
-Dia 4 - 
-
-Dia 5 -
-
-Dia 6 - 
-
-Dia 7 -
