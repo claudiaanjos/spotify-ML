@@ -20,11 +20,12 @@ Ao longo do desafio, utilizaremos bibliotecas como **Pandas, Numpy, Searborn, Ma
 
 #
 
-### Extras
+### Desafios
 
-- [Documentação do Pandas](https://pandas.pydata.org/docs/user_guide/index.html);
-- [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset);
-- Artigo ["Traduzindo dados no Pandas.DataFrame() com Google Translate"](https://www.linkedin.com/pulse/traduzindo-dados-pandasdataframe-com-google-translate-romerito-morais/?originalSubdomain=pt);
-- Artigo ["Pandas profiling no Python – Análise de dados rápida"](https://www.hashtagtreinamentos.com/pandas-profiling-no-python-ciencia-dados);
-- Artigo ["O que é Data Storytelling?"](https://paulovasconcellos.com.br/o-que-%C3%A9-data-storytelling-ac5a924dcdaf);
-- Artigo ["Teste de Hipótese com Python"](https://ovictorviana.medium.com/teste-de-hip%C3%B3tese-com-python-ba5d751f156c);
+Dia 1 - Coleta de dados e Análise Exploratória
+Dia 2 -
+Dia 3 - 
+Dia 4 - 
+Dia 5 -
+Dia 6 - 
+Dia 7 -
