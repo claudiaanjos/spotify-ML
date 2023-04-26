@@ -23,7 +23,9 @@ Ao longo do desafio, utilizaremos bibliotecas como **Pandas, Numpy, Searborn, Ma
 ### Desafios
 
 Dia 1 - Coleta de dados e Análise Exploratória
+
 Dia 2 - Pré processamento dos dados
+
 Dia 3 - ivisão dos dados e validação cruzada
 
 
