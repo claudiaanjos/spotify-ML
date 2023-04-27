@@ -28,4 +28,6 @@ Dia 2 - Pré processamento dos dados
 
 Dia 3 - ivisão dos dados e validação cruzada
 
+Dia 4 - Baseline do primeiro modelo
+
 
