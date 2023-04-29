@@ -1,5 +1,5 @@
 <h2 align="left">
-  👩🏻‍💻 Importações e coleta de dados
+  👩🏻‍💻 Validando o modelo
 </h2>
 
 Hoje vamos falar sobre a validação do modelo de classificação que você criou para prever a popularidade de músicas no Spotify.
