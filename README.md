@@ -32,6 +32,6 @@ Dia 4 - Baseline do primeiro modelo
 
 Dia 5 - Validando o modelo
 
-Dia 6 - Reamostragem e coleta de dados
+Dia 6 - Reamostragem dos dados e ajuste do modelo selecionado
 
 
