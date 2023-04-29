@@ -30,4 +30,8 @@ Dia 3 - ivisão dos dados e validação cruzada
 
 Dia 4 - Baseline do primeiro modelo
 
+Dia 5 - Validando o modelo
+
+Dia 6 - Reamostragem e coleta de dados
+
 
