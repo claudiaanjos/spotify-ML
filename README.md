@@ -34,4 +34,6 @@ Dia 5 - Validando o modelo
 
 Dia 6 - Reamostragem dos dados e ajuste do modelo selecionado
 
+Dia 7 - Aplicando o resultado nos dados de teste e salvando os resultados
+
 
