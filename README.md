@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=EM_ANDAMENTO&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
 </p>
 
 <h2 align="left">
@@ -26,7 +26,7 @@ Dia 1 - Coleta de dados e Análise Exploratória
 
 Dia 2 - Pré processamento dos dados
 
-Dia 3 - ivisão dos dados e validação cruzada
+Dia 3 - Divisão dos dados e validação cruzada
 
 Dia 4 - Baseline do primeiro modelo
 
@@ -36,4 +36,11 @@ Dia 6 - Reamostragem dos dados e ajuste do modelo selecionado
 
 Dia 7 - Aplicando o resultado nos dados de teste e salvando os resultados
 
+#
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>
+    <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-FF5722?style=for-the-badge&logo=medium" target="_blank"></a>
+</div>
 
