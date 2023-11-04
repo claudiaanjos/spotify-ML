@@ -10,7 +10,7 @@
   👩🏻‍💻 MACHINE LEARNING E PYTHON
 </h2>
 
-Desafio #7DaysOfCode da Alura! São 7 dias e 7 desafios. 
+Desafio #7DaysOfCode da Alura. São 7 dias e 7 desafios. 
 
 **Analisaremos os dados do Spotify e faremos a previsão da popularidade de músicas com Machine Learning.**
 
